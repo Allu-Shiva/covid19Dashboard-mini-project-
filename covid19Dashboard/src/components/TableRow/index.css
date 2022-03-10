@@ -1,0 +1,24 @@
+.table-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.name-cell {
+  /* border: 1px solid red; */
+  width: 300px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  /* or 171% */
+
+  /* Light / blue-gray / 100 */
+
+  color: #f1f5f9;
+}
+.population {
+  color: #94a3b8;
+}

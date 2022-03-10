@@ -1,0 +1,30 @@
+.card-btn {
+  width: 200px;
+  height: 200px;
+
+  border: 0px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+@media (max-width: 768px) {
+  .card-btn {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+.Confirmed {
+  background-color: #331427;
+}
+.Active {
+  background-color: #132240;
+}
+.Recovered {
+  background-color: #182829;
+}
+.Deceased {
+  background-color: #212230;
+}

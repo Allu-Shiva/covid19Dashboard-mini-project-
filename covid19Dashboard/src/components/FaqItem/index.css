@@ -1,0 +1,25 @@
+.faq-list-item {
+  line-height: 32px;
+}
+.question-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  /* identical to box height, or 200% */
+
+  /* Light / blue-gray / 400 */
+
+  color: #94a3b8;
+}
+.answer-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+
+  color: #007bff;
+}
